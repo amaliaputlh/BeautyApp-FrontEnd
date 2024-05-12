@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeautyApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_look">Look</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_back">Back</string>
+    <string name="beauty_share">BeautyApp</string>
+    <string name="share_message">Tampilkan kecantikanmu dengan BeautyApp sekarang!</string>
+</resources>
